@@ -20,6 +20,8 @@ What was the quantifiable impact of the changes introduced in June 2020?
 Which platform, region, segment and customer types were the most impacted by this change?
 What can we do about future introduction of similar sustainability updates to the business to minimise impact on sales?
 
+Check [here](https://8weeksqlchallenge.com/case-study-5/) for full challenge.
+
 ## Entity Relationship Diagram
 
 For this challenge there is only a single table 'data_mart.weekly_sales'. The Entity Relationship Diagram is shown below with the data types made clear.
