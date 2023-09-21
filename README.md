@@ -5,7 +5,7 @@
 # Table of Contents
 - [Introduction](#Introduction)
 - [Entity Relationship Diagram](#Entity-Relationship-Diagram)
-- [Business Questions and Solutions]()
+- [Business Questions and Solutions](https://github.com/Tori-Greg/Danny-Ma-SQL-Challenge-Data-Mart/blob/main/Business%20Questions%20and%20Solutions.md)
 
 ## Introduction:
 Data Mart is Danny’s latest venture and after running international operations for his online supermarket that specialises in fresh produce - Danny is asking for your support to analyse his sales performance.
